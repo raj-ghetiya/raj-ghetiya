@@ -1,4 +1,4 @@
-![1.png](https://cdn.educba.com/academy/wp-content/uploads/2019/11/full-stack-web-developer.png.webp)
+![1.png](https://miro.medium.com/v2/resize:fit:720/0*ZEPJsASfB2z7hi_0)
 <h1 align="center">Hi 👋, I'm Raj Ghetiya</h1>
 <h3 align="center">full stack developer</h3>
 
