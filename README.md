@@ -1,4 +1,4 @@
-![1.png](https://miro.medium.com/v2/resize:fit:720/0*ZEPJsASfB2z7hi_0)
+![1.png](https://storage.googleapis.com/dycr-web/image/topic/git/git.png)
 <h1 align="center">Hi 👋, I'm Raj Ghetiya</h1>
 <h3 align="center">full stack developer</h3>
 
