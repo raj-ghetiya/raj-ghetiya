@@ -1,4 +1,4 @@
-![1.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.geeksforgeeks.org%2Fwp-content%2Fcdn-uploads%2F20190626123927%2Funtitlsssssed.png&tbnid=TNku3oaAMVbU0M&vet=12ahUKEwiylpP36rCAAxU3zqACHQnCA4kQMygGegUIARD9AQ..i&imgrefurl=https%3A%2F%2Fwww.geeksforgeeks.org%2Fwhat-is-full-stack-development%2F&docid=t9OqRuxjOGbIkM&w=1456&h=768&q=full%20stack%20wed%20img&ved=2ahUKEwiylpP36rCAAxU3zqACHQnCA4kQMygGegUIARD9AQ)
+![1.png](https://cdn.educba.com/academy/wp-content/uploads/2019/11/full-stack-web-developer.png.webp)
 <h1 align="center">Hi 👋, I'm Raj Ghetiya</h1>
 <h3 align="center">full stack developer</h3>
 
